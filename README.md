@@ -14,7 +14,7 @@
 <a href="https://twitter.com/promahadihasan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="promahadihasan" height="30" width="40" /></a>
 <a href="https://instagram.com/promahadihasan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="promahadihasan" height="30" width="40" /></a>
 </p>
-<h3 align="left">Android App on Google Play Store:</h3>
+<h3 align="left">Android Apps on Google Play Store:</h3>
 <p align="left">
 <a href="https://play.google.com/store/apps/details?id=theoaktroop.appoframadan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/promahadihasan/promahadihasan/main/files/muslimDay.svg" alt="Muslims Day" height="30" width="40" /></a>
 <a href="https://play.google.com/store/apps/details?id=megaminds.dailyeditorialword" target="_blank"><img align="center" src="https://raw.githubusercontent.com/promahadihasan/promahadihasan/main/files/dailyEditorial.svg" alt="Daily Editorial & Vocabulary" height="30" width="40" /></a>
