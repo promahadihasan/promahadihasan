@@ -1,8 +1,8 @@
 
 <h1 align="center"> Hi there 👋, I'm Mahadi Hasan</h1>
-<h3 align="center">I am a highly skilled Android developer with a proven track record of delivering challenging  projects and optimizing app performance.</h3>
+<h3 align="center">I am an experienced and skilled Android Apps Developer with a proven track record of successfully delivering outstanding projects and improving app performance.</h3>
 
-- 📝 I regularly write articles on [https://promahadihasan.github.io/](https://promahadihasan.github.io/)
+- 📝 My profile is here [https://promahadihasan.github.io/](https://promahadihasan.github.io/)
 
 - 💬 Ask me about **Android Development**
 
@@ -20,8 +20,22 @@
 <a href="https://play.google.com/store/apps/details?id=megaminds.dailyeditorialword" target="_blank"><img align="center" src="https://raw.githubusercontent.com/promahadihasan/promahadihasan/main/files/dailyEditorial.svg" alt="Daily Editorial & Vocabulary" height="30" width="40" /></a>
 </p>
 
-<!--
-**promahadihasan/promahadihasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--online problem solving -->
+
+<table align="left" cellspacing="0" cellpadding="0">
+  <caption><h3 align="left">UVa online-judge statistics:</h3></caption>
+<tbody><tr>
+  <td> <a href="https://uhunt.onlinejudge.org/id/147770" target="_blank" ><img border="0" src="https://uhunt.onlinejudge.org/images/uva.png" height="70" width="70" style="padding-right:15px"></a></td>
+  <td><span style="font-size:40px; font-family:Arial; font-weight:bold;"><b>uHunt</b></span><br>
+    <span style="font-size:12px; font-family: verdana; font-style: italic; "><i>hunt problems that matter</i></span><br>
+  </td>
+    <td>  UVa username: <a href="https://uhunt.onlinejudge.org/id/147770" target="_blank"><i>Mahadi07</i></td>
+
+ 
+</tr>
+</tbody></table>
+
+<!-- **promahadihasan/promahadihasan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
