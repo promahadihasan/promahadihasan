@@ -2,7 +2,7 @@
 <h1 align="center"> Hi there 👋, I'm Mahadi Hasan</h1>
 <h3 align="center">I am an experienced and skilled Android Apps Developer with a proven track record of successfully delivering outstanding projects and improving app performance.</h3>
 
-- 📝 My profile is here [https://promahadihasan.github.io/](https://promahadihasan.github.io/)
+- 📝 My profile is here [https://promahadihasan.github.io/profile/](https://promahadihasan.github.io/profile/)
 
 - 💬 Ask me about **Android Development**
 
